@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "D:\\unity projects\\Catch the egg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|D:\\unity projects\\Catch the egg\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|d:\\unity projects\\catch the egg\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|D:\\unity projects\\Catch the egg\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|d:\\unity projects\\catch the egg\\assets\\scripts\\runtimescoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|d:\\unity projects\\catch the egg\\assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|D:\\unity projects\\Catch the egg\\assets\\scripts\\runtimescoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{134000D6-DE73-C89C-16F2-77196372ABA4}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runtimescoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -44,20 +44,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\RuntimeScoreManager.cs",
               "ToolTip": "D:\\unity projects\\Catch the egg\\Assets\\Scripts\\RuntimeScoreManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\RuntimeScoreManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T11:54:43.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "D:\\unity projects\\Catch the egg\\Assets\\Scripts\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverManager.cs",
               "ToolTip": "D:\\unity projects\\Catch the egg\\Assets\\Scripts\\GameOverManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameOverManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T08:13:52.309Z",
               "EditorCaption": ""
@@ -70,19 +70,20 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\EggScript.cs",
               "ToolTip": "D:\\unity projects\\Catch the egg\\Assets\\Scripts\\EggScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\EggScript.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAowCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T08:44:49.303Z"
+              "WhenOpened": "2025-03-20T08:44:49.303Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "GameManager.cs",
               "DocumentMoniker": "D:\\unity projects\\Catch the egg\\Assets\\Scripts\\GameManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
               "ToolTip": "D:\\unity projects\\Catch the egg\\Assets\\Scripts\\GameManager.cs",
               "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAwwEgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAwDkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T06:36:39.641Z",
               "EditorCaption": ""
