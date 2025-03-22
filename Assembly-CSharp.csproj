@@ -63,8 +63,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\GameOverManager.cs" />
     <Compile Include="Assets\Scripts\SceneManagement.cs" />
+    <Compile Include="Assets\Scripts\RuntimeScoreManager.cs" />
     <Compile Include="Assets\Scripts\EggScript.cs" />
-    <Compile Include="Assets\Data\Score.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>

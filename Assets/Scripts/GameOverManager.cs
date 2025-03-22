@@ -2,13 +2,14 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
-public class GameOverManager: MonoBehaviour
+public class GameOverManager : MonoBehaviour
 {
-    Score score;
     public Text scoreDisplayer;
+
     void Start()
     {
-        score = Resources.Load<Score>("ScoreData");
-        scoreDisplayer.text = "Current Score: " + score.CurrentScore.ToString() + "\r\nHigh Score: " + score.HighScore.ToString();
+        int currentScore = RuntimeScoreManager.Instance.CurrentScore;
+        int highScore = RuntimeScoreManager.Instance.HighScore;
+        scoreDisplayer.text = "Current Score: " + currentScore + "\r\nHigh Score: " + highScore;
     }
 }
